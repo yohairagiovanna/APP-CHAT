@@ -1,16 +1,16 @@
-#Aplicación de chat en tiempo real
+# Aplicación de chat en tiempo real
 
-##El lenguaje de programación utilizado es:
+## El lenguaje de programación utilizado es:
 
 Javascript
 
 Css
 
-##En el editor de texto:
+## En el editor de texto:
 
 Visual Studio Code
 
-##Tecnologías utilizadas
+## Tecnologías utilizadas
 
 Nodejs
 
@@ -20,7 +20,7 @@ Socket.io
 
 Mongodb
 
-##Descripción de como ejecutar el proyecto
+## Descripción de como ejecutar el proyecto
 
 1.Para descargar el proyecto tiene que dirigirse a code y clonar el 2.repositorio, luego abrirlo desde algún editor de código.
 
